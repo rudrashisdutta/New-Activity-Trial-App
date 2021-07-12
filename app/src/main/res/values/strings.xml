@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My First app</string>
+    <string name="edit_text_hint" tools:ignore="TypographyEllipsis">Enter a message...</string>
+    <string name="button_name">Send value</string>
+    <string name="exit_button">EXIT</string>
+    <string name="BACK">BACK</string>
+</resources>
